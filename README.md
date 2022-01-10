@@ -1,10 +1,6 @@
 # Blooket
 # **Support discord server: https://discord.gg/RTseVPF8MA**
 
-# global
-
-All these cheats in the folder can be used outside games
-
 # addTokens.js
 
 note: **This cheat also includes adding max xp for the day**
